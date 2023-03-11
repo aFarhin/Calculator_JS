@@ -1,0 +1,37 @@
+
+
+
+.main{
+    width: 168px;
+    height: auto;
+    padding: 50px;
+    background-color: rgb(233, 218, 221);
+    box-shadow: 1px 1px 2px 2px  rgb(51, 48, 48);
+
+    
+}
+
+body{
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height:auto ;
+    background-color: rgb(185, 149, 149)
+
+}
+
+input{
+    /* background-color: gra ; */
+    box-shadow: 1px 1px 2px 2px
+}
+button{
+    background-color: ;
+    box-shadow: 1px 1px 2px 2px;
+}
+
+.btn{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    gap: 8px;
+}
